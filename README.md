@@ -8,13 +8,13 @@
 
 ---
 
-## 📦 Submission Deliverables (Attached in Repository)
+## 📦 Submission Deliverables (View Inline on GitHub or One-Click Download)
 
-| Deliverable | File Link | Description |
-| :--- | :--- | :--- |
-| 📊 **Full 18-Slide Submission PPTX** | [**`Agentic_ERP_Exception_Commander_Submission.pptx`**](./Agentic_ERP_Exception_Commander_Submission.pptx) | Widescreen (`16:9`) executive presentation deck with GitHub repository link at the top of every slide, all 13 live application screenshots, Oracle Fusion ERP screenshots, architecture, 7 exception scenarios, and ROI metrics (`25.2 MB`). |
-| 🎬 **Full Narrated HD Demo Video (`2m 27s`)** | [**`Agentic_ERP_Exception_Commander_Demo.mp4`**](./Agentic_ERP_Exception_Commander_Demo.mp4) | Full-motion `1600×900` H.264 `.mp4` walkthrough with spoken voiceover narration, glowing spotlight frames, animated cursor tracking, click ripples, and lower-third cinema subtitles across all 9 live workflow scenes (`49.2 MB`). |
-| 🖼️ **High-Resolution Screenshots** | [**`docs/screenshots/`**](./docs/screenshots/) | All 16 high-resolution Retina screenshots of the live application and Oracle Fusion Cloud ERP Payables workbench. |
+| Deliverable | View Inline in Browser | One-Click Direct Download | Description |
+| :--- | :--- | :--- | :--- |
+| 📊 **18-Slide Presentation Deck** | [**👁️ View 18 Slides Inline (PDF)**](./Agentic_ERP_Exception_Commander_Submission.pdf) | [**⬇️ Download PowerPoint (`.pptx`)**](https://github.com/Madhuvirat4al/agentic-erp-exception-commander-oracle-fusion/raw/main/Agentic_ERP_Exception_Commander_Submission.pptx) | Widescreen (`16:9`) 18-slide executive presentation deck with the GitHub repository link at the top of Slide 1 and every slide header, all 13 live application screenshots, Oracle Fusion ERP screenshots, architecture, 7 exception scenarios, and ROI metrics. |
+| 🎬 **Full Narrated HD Demo Video (`2m 27s`)** | [**▶️ Watch Video Inline on GitHub**](./Agentic_ERP_Exception_Commander_Demo.mp4) | [**⬇️ Download Video (`.mp4`)**](https://github.com/Madhuvirat4al/agentic-erp-exception-commander-oracle-fusion/raw/main/Agentic_ERP_Exception_Commander_Demo.mp4) | Full-motion HD walkthrough (`< 10 MB` GitHub inline player compatible) with spoken voiceover narration, glowing spotlight frames, animated cursor tracking, click ripples, and lower-third cinema subtitles across all 9 live workflow scenes. |
+| 🖼️ **High-Resolution Screenshots** | [**📂 Browse `docs/screenshots/`**](./docs/screenshots/) | — | All 16 high-resolution screenshots of the live application and Oracle Fusion Cloud ERP Payables workbench. |
 
 ---
 
